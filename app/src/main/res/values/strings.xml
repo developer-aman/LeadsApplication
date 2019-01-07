@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leads Application</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="comment">Comment</string>
+    <string name="empty_text">No Leads To Show</string>
+</resources>
